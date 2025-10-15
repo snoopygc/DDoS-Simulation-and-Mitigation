@@ -17,3 +17,19 @@ An interactive web-based platform designed to promote cybersecurity knowledge th
 - Tracks comprehensive analytics including attack history logs, session statistics (total attacks, block rate, uptime percentage, average response time), and educational content with severity indicators and complexity ratings.
 
 - Built with Next.js 15 App Router, React 19, TypeScript, and Tailwind CSS v4, demonstrating modern full-stack development practices, real-time state management, and accessible UI design with Radix UI primitives.
+
+## Installation
+
+bash
+
+npm install
+
+npm run dev
+
+Visit `http://localhost:3000` to access the simulator.
+
+## License
+
+MIT License
+
+**Disclaimer**: This simulator is intended solely for educational and research purposes. Do not use these techniques against systems without explicit authorization.
